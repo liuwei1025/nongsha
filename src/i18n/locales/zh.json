@@ -1,0 +1,66 @@
+{
+  "app": {
+    "name": "农沙",
+    "tagline": "本地优先的 PWA，适用于你有一小段时间、头脑混乱、不知道下一步该做什么的时刻。"
+  },
+  "nav": {
+    "home": "首页",
+    "capture": "捕获",
+    "report": "报告"
+  },
+  "home": {
+    "title": "首页",
+    "welcome": "今天你想专注什么？",
+    "weeklyProgress": "本周进度",
+    "dailyProgress": "今日进度",
+    "recommendations": "推荐建议",
+    "noRecommendations": "暂无推荐。先进捕获一些笔记吧。",
+    "startCapture": "开始捕获",
+    "executed": "已执行",
+    "pending": "待处理",
+    "done": "完成",
+    "skip": "跳过"
+  },
+  "capture": {
+    "title": "捕获",
+    "placeholder": "你在想什么？记录任何内容——一个想法、一个任务、一个主意...",
+    "parse": "解析",
+    "parsing": "解析中...",
+    "save": "保存",
+    "cancel": "取消",
+    "success": "笔记捕获成功！",
+    "error": "解析笔记失败。正在使用启发式后备解析器。"
+  },
+  "report": {
+    "title": "报告",
+    "weeklyOverview": "本周概览",
+    "dailyOverview": "今日概览",
+    "totalExecuted": "已执行总数",
+    "totalPending": "待处理总数",
+    "completionRate": "完成率",
+    "noData": "暂无数据。开始捕获和执行任务吧！"
+  },
+  "settings": {
+    "title": "设置",
+    "language": "语言",
+    "theme": "主题",
+    "light": "浅色",
+    "dark": "深色"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "发生错误",
+    "retry": "重试",
+    "close": "关闭",
+    "confirm": "确认",
+    "delete": "删除",
+    "edit": "编辑",
+    "save": "保存",
+    "cancel": "取消"
+  },
+  "parse": {
+    "remoteMode": "远程解析",
+    "localMode": "本地解析",
+    "usingFallback": "使用启发式后备解析器"
+  }
+}

@@ -3,6 +3,7 @@ import { useLiveQuery } from 'dexie-react-hooks'
 import type { PropsWithChildren } from 'react'
 
 import { db } from '@/data/db'
+import { LanguageSwitcher } from './LanguageSwitcher'
 
 const navItems = [
   { label: 'Capture', to: '/capture' },
@@ -61,6 +62,7 @@ export function Shell({ children }: PropsWithChildren) {
             {item.label}
           </NavLink>
         ))}
+        <LanguageSwitcher />
       </nav>
 
       <main className="shell__content">{children}</main>

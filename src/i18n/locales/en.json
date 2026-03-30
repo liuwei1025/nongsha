@@ -1,0 +1,66 @@
+{
+  "app": {
+    "name": "Nongsha",
+    "tagline": "Local-first PWA for when you have a little time, a messy head, and no clue what to do next."
+  },
+  "nav": {
+    "home": "Home",
+    "capture": "Capture",
+    "report": "Report"
+  },
+  "home": {
+    "title": "Home",
+    "welcome": "What will you focus on today?",
+    "weeklyProgress": "Weekly Progress",
+    "dailyProgress": "Daily Progress",
+    "recommendations": "Recommendations",
+    "noRecommendations": "No recommendations yet. Capture some notes first.",
+    "startCapture": "Start Capture",
+    "executed": "executed",
+    "pending": "pending",
+    "done": "Done",
+    "skip": "Skip"
+  },
+  "capture": {
+    "title": "Capture",
+    "placeholder": "What's on your mind? Capture anything - a thought, a task, an idea...",
+    "parse": "Parse",
+    "parsing": "Parsing...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "success": "Note captured successfully!",
+    "error": "Failed to parse note. Using heuristic fallback."
+  },
+  "report": {
+    "title": "Report",
+    "weeklyOverview": "Weekly Overview",
+    "dailyOverview": "Daily Overview",
+    "totalExecuted": "Total Executed",
+    "totalPending": "Total Pending",
+    "completionRate": "Completion Rate",
+    "noData": "No data yet. Start capturing and executing tasks!"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "close": "Close",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "parse": {
+    "remoteMode": "Remote Parse",
+    "localMode": "Local Parse",
+    "usingFallback": "Using heuristic fallback parser"
+  }
+}
