@@ -1,0 +1,17 @@
+{
+  "name": "Nongsha",
+  "short_name": "Nongsha",
+  "description": "A local-first rhythm app that tells you what to do next when time is fuzzy.",
+  "start_url": "/home",
+  "display": "standalone",
+  "background_color": "#f3eadc",
+  "theme_color": "#18322d",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
